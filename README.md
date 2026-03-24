@@ -1,2 +1,0 @@
-# Gym
-web tập gym
